@@ -1,0 +1,24 @@
+.a{
+    font-size: 14px;
+    text-align: justify;
+    font-display: grid;
+}
+body{
+    padding-left: 30%;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.horizan{
+    background:black;
+    height:4px;
+    position: relative;
+    border: none;
+   
+   
+    padding-right: 30%;
+ 
+
+}
+.b{
+    font-weight: 900;
+}
